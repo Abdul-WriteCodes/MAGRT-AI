@@ -1,4 +1,4 @@
-from ..state import shared_state, Milestone
+from backend.state import shared_state, Milestone
 
 class GoalArchitect:
     def generate_milestones(self, goal: str):

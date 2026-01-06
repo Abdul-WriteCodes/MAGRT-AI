@@ -1,0 +1,8 @@
+# FastAPI backend framework
+fastapi==0.111.1
+
+# Uvicorn server
+uvicorn[standard]==0.40.0
+
+# Pydantic compatible with FastAPI
+pydantic>=2.7.4,<3.0.0
